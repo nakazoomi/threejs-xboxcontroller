@@ -1,0 +1,11 @@
+Model Information:
+* title:	Xbox Inalambric Controller (White)
+* source:	https://sketchfab.com/3d-models/xbox-inalambric-controller-white-f18a70fc10414ef5a39b55de68f12823
+* author:	DogexorRexUwU (https://sketchfab.com/oscar.lopez.riviello)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Xbox Inalambric Controller (White)" (https://sketchfab.com/3d-models/xbox-inalambric-controller-white-f18a70fc10414ef5a39b55de68f12823) by DogexorRexUwU (https://sketchfab.com/oscar.lopez.riviello) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
